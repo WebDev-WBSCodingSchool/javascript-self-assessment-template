@@ -34,4 +34,4 @@ function isPrime(n) {
   return undefined;
 }
 
-module.exports = { add, fibonacci, isPrime };
+export { add, fibonacci, isPrime };
